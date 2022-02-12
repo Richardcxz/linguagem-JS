@@ -1,0 +1,1 @@
+let bbola = Object.create(bola);
